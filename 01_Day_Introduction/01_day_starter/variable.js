@@ -18,3 +18,9 @@ const PI = 3.14              // geometrical constant
 let name = 'Asabeneh',     //name of a person
   job = 'teacher',
   live = 'Finland'
+
+  let string = '';
+  let bool = false;
+  let cheese;
+  let cake = null;
+  
